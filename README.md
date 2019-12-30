@@ -1,6 +1,8 @@
 # 8.Nested-loops
 ENGLISH 
 -
+“We all know that Linux is cool ... it runs infinite loops in 5 seconds.”
+-
 Welcome to my 8th repository in Github! 
 
 There are main themes:
@@ -11,6 +13,8 @@ There are main themes:
 - tracing variables
   
 РУССКИЙ
+-
+„Мы все знаем, что Linux — это круто… он выполняет бесконечные циклы за 5 секунд.“
 -
 Добро пожаловать на мой 8 репозиторий на Github!
 
